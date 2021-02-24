@@ -32,7 +32,6 @@ MANIFEST
 ## Uneccessary/local only resources & files
 .DS_Store
 WeatherPy-backup-test.ipynb
-coordinates_backup_list
 citipy-module-test.ipynb
 api_practice.ipynb
 random_numbers.ipynb
