@@ -1,3 +1,13 @@
+# Local files
+## Uneccessary/local only resources & files
+WeatherPy-backup-test.ipynb
+citipy-module-test.ipynb
+api_practice.ipynb
+random_numbers.ipynb
+coordinates_backup_list
+config.py
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -27,14 +37,8 @@ share/python-wheels/
 *.egg
 MANIFEST
 
-# Local files
 ## OS generated files
-## Uneccessary/local only resources & files
 .DS_Store
-WeatherPy-backup-test.ipynb
-citipy-module-test.ipynb
-api_practice.ipynb
-random_numbers.ipynb
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
