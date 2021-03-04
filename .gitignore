@@ -8,6 +8,7 @@ coordinates_backup_list
 config.py
 Google_Nearby_Search.ipynb
 Weather_Database/config.py
+weather-config.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
